@@ -1,5 +1,26 @@
 {
     "name": "my-package",
     "version": "0.0.1",
-    "main": "index.js"
+    "description": "test case",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sabari-sa/my-package.git"
+    },
+    "keywords": [
+        "node",
+        "npm"
+    ],
+    "author": "sabari",
+    "license": "MIT",
+    "dependencies": {
+        "my-package": "^0.0.1"
+    },
+    "bugs": {
+        "url": "https://github.com/sabari-sa/my-package/issues"
+    },
+    "homepage": "https://github.com/sabari-sa/my-package#readme"
 }
