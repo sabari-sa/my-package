@@ -1,5 +1,5 @@
 {
-    "name": "my-package",
+    "name": "vss-angular-npm-testcase",
     "version": "0.0.1",
     "description": "test case",
     "main": "index.js",
@@ -17,7 +17,7 @@
     "author": "sabari",
     "license": "MIT",
     "dependencies": {
-        "my-package": "^0.0.1"
+        "my-package": "0.0.1"
     },
     "bugs": {
         "url": "https://github.com/sabari-sa/my-package/issues"
